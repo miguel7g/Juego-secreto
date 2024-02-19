@@ -13,3 +13,5 @@
 Se realizo la solicitud de colaboracion a un compañero para que pueda generar ideas para posibles mejoras del juego 
 
 Presentamos alguna modificancion simple por practicar con git y github para el control de versiones, solo copiamos esta linea en la modificacion de este archivo Redmi, asi haremos un pull
+
+- creando un cambio desde guithub para git, asi hago la distribucion de versiones, para mantener la misma info en ambos sitios actualizada
