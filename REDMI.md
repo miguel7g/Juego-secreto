@@ -12,3 +12,4 @@
 
 Se realizo la solicitud de colaboracion a un compañero para que pueda generar ideas para posibles mejoras del juego 
 
+Presentamos alguna modificancion simple por practicar con git y github para el control de versiones, solo copiamos esta linea en la modificacion de este archivo Redmi, asi haremos un pull 
